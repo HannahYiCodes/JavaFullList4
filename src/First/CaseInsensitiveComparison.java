@@ -1,3 +1,5 @@
+package First;
+
 public class CaseInsensitiveComparison {
     public static boolean match(String strOne, String strTwo) {
         return strOne.equalsIgnoreCase(strTwo);

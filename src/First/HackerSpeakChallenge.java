@@ -1,3 +1,5 @@
+package First;
+
 public class HackerSpeakChallenge {
     public static String hackerSpeak(String theString) {
         return theString
